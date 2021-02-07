@@ -7,13 +7,15 @@
     </a>.
 </p>
 
-<h3>Source Code:</h3>
-<p>https://github.com/bparshintsev/courses-solutions </p>
-
 <h3>
     Sites are hosted in github pages:
 </h3>
-<p>https://bparshintsev.github.io/courses-solutions </p>
+<p>
+    <a href="https://bparshintsev.github.io/courses-solutions">
+       bparshintsev.github.io/courses-solutions 
+    </a>
+</p>
+
     
 <h3>Direct links to solutions:</h3>
 <ul>
