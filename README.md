@@ -20,10 +20,18 @@
 <h3>Direct links to solutions:</h3>
 <ul>
   <li>
-    <div>Week 1 main task solution. Creating a simple restaurant menu site:</div>
+    <div>Week 2 main task solution. Creating a simple restaurant menu site using html and css only:</div>
     <div>
-        <a href="https://bparshintsev.github.io/courses-solutions/week_1_restaurant_site">
-            My Restaurant Site Solution
+        <a href="https://bparshintsev.github.io/courses-solutions/week_2_solution">
+            My Restaurant Site Solution with html/css only
+        </a>
+    </div>
+  </li>
+  <li>
+    <div>Week 3 main task solution. Creating a simple restaurant menu site with bootstrap</div>
+    <div>
+        <a href="https://bparshintsev.github.io/courses-solutions/week_3_solution">
+            My Restaurant Site Solution using bootstrap
         </a>
     </div>
   </li>
