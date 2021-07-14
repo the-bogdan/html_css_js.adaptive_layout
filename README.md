@@ -11,8 +11,8 @@
     Sites are hosted in github pages:
 </h3>
 <p>
-    <a href="https://bparshintsev.github.io/courses-solutions">
-       bparshintsev.github.io/courses-solutions 
+    <a href="https://the-bogdan.github.io/courses-solutions">
+       the-bogdan.github.io/courses-solutions 
     </a>
 </p>
 
@@ -22,7 +22,7 @@
   <li>
     <div>Week 2 main task solution. Creating a simple restaurant menu site using html and css only:</div>
     <div>
-        <a href="https://bparshintsev.github.io/courses-solutions/week_2_solution">
+        <a href="https://the-bogdan.github.io/courses-solutions/week_2_solution">
             My Restaurant Site Solution with html/css only
         </a>
     </div>
@@ -30,7 +30,7 @@
   <li>
     <div>Week 3 main task solution. Creating a simple restaurant menu site with bootstrap</div>
     <div>
-        <a href="https://bparshintsev.github.io/courses-solutions/week_3_solution">
+        <a href="https://the-bogdan.github.io/courses-solutions/week_3_solution">
             My Restaurant Site Solution using bootstrap
         </a>
     </div>
